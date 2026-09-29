@@ -24,7 +24,8 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 kb = ReplyKeyboardMarkup(
     keyboard=[
         [KeyboardButton(text="Профиль")],
-        [KeyboardButton(text="Мероприятия"), KeyboardButton(text="Помощь")],
+        [KeyboardButton(text="Мероприятия"),
+        [KeyboardButton(text="Помощь")],
     ],
     resize_keyboard=True,
 )
