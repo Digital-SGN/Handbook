@@ -16,3 +16,9 @@
 - **Роль**: Fullstack / DevOps
 - **GitHub**: [Demonrux](https://github.com/Demonrux)
 - **О себе**: пишу код, любою рок и котов :3
+
+## Тимур Беляев
+- **Группа**: СГН3-13Б
+- **Роль**: 
+- **GitHub**: [TBKaGOC](https://github.com/TBKaGOC)
+- **О себе**: нет лучше в мире напитка, чем чай
