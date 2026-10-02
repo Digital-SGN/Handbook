@@ -19,7 +19,7 @@
 
 Общий вид вызова:
 
-```c
+```cpp
 printf(строка_форматирования, список_аргументов);
 ```
 
@@ -31,7 +31,7 @@ printf(строка_форматирования, список_аргумент�
 
 Простейший случай:
 
-```c
+```cpp
 #include <stdio.h>
 
 int main(void)
@@ -56,7 +56,7 @@ int main(void)
 
 Пример:
 
-```c
+```cpp
 #include <stdio.h>
 
 int main(void)
@@ -100,7 +100,7 @@ Brian Kernighan, Dennis Ritchie
 
 Пример:
 
-```c
+```cpp
 #include <stdio.h>
 
 int main(void)
@@ -145,7 +145,7 @@ Hello, world
 - **Ширина поля** — минимальное количество символов для вывода.
 - **Точность** — количество цифр в дробной части.
 
-```c
+```cpp
 float r = 71.8986;
 printf("x = %4.2f\n", r);   // x = 71.90
 ```
@@ -171,7 +171,7 @@ printf("x = %4.2f\n", r);   // x = 71.90
 
 Пример:
 
-```c
+```cpp
 short r = 7100;
 printf("x = %hd\n", r);
 ```
@@ -184,7 +184,7 @@ printf("x = %hd\n", r);
 
 За один вызов `printf` можно вывести сразу несколько значений:
 
-```c
+```cpp
 printf("Name=%s\tAge=%d\tWeight=%3.2f", "Tom", 23, 63.3456);
 ```
 
@@ -210,7 +210,7 @@ printf("Name=%s\tAge=%d\tWeight=%3.2f", "Tom", 23, 63.3456);
 
 Пример:
 
-```c
+```cpp
 #include <stdio.h>
 
 int main(void)
