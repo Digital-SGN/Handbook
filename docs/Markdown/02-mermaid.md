@@ -57,7 +57,8 @@ Mermaid решает всё это: диаграмма — это **текст**
 
 ### Минимальный пример
 
-```text
+````text
+```mermaid
 flowchart LR
   A[Начало] --> B{Есть данные?}
   B -->|да| C[Обработка]
@@ -65,6 +66,7 @@ flowchart LR
   C --> E[Конец]
   D --> E
 ```
+````
 
 ```mermaid
 flowchart LR
