@@ -29,4 +29,8 @@
 - **GitHub**: [k3rnel1x](https://github.com/k3rnel1x)
 - **О себе**: все очень круто, но надо переделать
 
-
+## Константин Скубак
+- **Группа**: СГН3-12Б
+- **Роль**: Fullstack / DevOps
+- **GitHub**: [S5aRtaN](https://github.com/S5aRtaN)
+- **О себе**: Разделяй и властвуй!
