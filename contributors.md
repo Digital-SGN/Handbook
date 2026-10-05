@@ -34,3 +34,10 @@
 - **Роль**: Fullstack / DevOps
 - **GitHub**: [S5aRtaN](https://github.com/S5aRtaN)
 - **О себе**: Разделяй и властвуй!
+
+## Александр Поляков
+- **Группа**: СГН3-12Б 
+- **Роль**: 
+- **GitHub**: [myrem0rse](https://github.com/myrem0rse)
+- **О себе**: готов создавать
+
