@@ -29,6 +29,7 @@
 
 # Курсы ИУ5
 - <img /> [Deep learning](https://github.com/Demonrux/Deep-learning)
+- <img /> [Web-разработка](https://github.com/Demonrux/Web)
 
 ## Задания
 - [Добавь себя в команду](assignments/task-01-git.md) — твой первый Pull Request.
