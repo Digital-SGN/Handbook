@@ -28,8 +28,9 @@
 - <img src="https://img.shields.io/badge/aiogram-2AABEE?style=flat&logo=telegram&logoColor=white" height="16" /> [Разработка Telegram-ботов](docs/Aiogram/README.md)
 
 # Курсы ИУ5
-- <img /> [Deep learning](https://github.com/Demonrux/Deep-learning)
-- <img /> [Web-разработка](https://github.com/Demonrux/Web)
+- <img /> [Deep learning](https://github.com/iu5git/Deep-learning)
+- <img /> [Web-разработка](https://github.com/iu5git/Web)
+- <img /> [DevOps](https://github.com/iu5git/DevOps)
 
 ## Задания
 - [Добавь себя в команду](assignments/task-01-git.md) — твой первый Pull Request.
