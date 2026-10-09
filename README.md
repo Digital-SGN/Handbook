@@ -27,6 +27,9 @@
 - <img src="https://img.shields.io/badge/Algorithms-4B8BBE?logo=thealgorithms&logoColor=white" height="16" /> [Алгоритмы и структуры данных](docs/Algorithms/README.md)
 - <img src="https://img.shields.io/badge/aiogram-2AABEE?style=flat&logo=telegram&logoColor=white" height="16" /> [Разработка Telegram-ботов](docs/Aiogram/README.md)
 
+# Курсы ИУ5
+- <img /> [Deep learning]()
+
 ## Задания
 - [Добавь себя в команду](assignments/task-01-git.md) — твой первый Pull Request.
 
