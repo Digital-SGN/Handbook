@@ -41,3 +41,9 @@
 - **GitHub**: [myrem0rse](https://github.com/myrem0rse)
 - **О себе**: готов создавать
 
+## Тихонов Никита
+- **Группа**: СГН3-13Б
+- **Роль**:
+- **GitHub**: [lowwfu](https://github.com/lowwfu)
+- **О себе**: полный газ
+
