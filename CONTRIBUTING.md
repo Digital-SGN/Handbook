@@ -47,3 +47,8 @@
 - **GitHub**: [lowwfu](https://github.com/lowwfu)
 - **О себе**: полный газ
 
+## Хопта Матвей
+- **Группа**: СГН3-13Б
+- **Роль**:
+- **GitHub**: [matveypredprof](https://github.com/matveypredprof)
+- **О себе**: делаю все в последний день
