@@ -52,4 +52,3 @@
 - **Роль**:
 - **GitHub**: [matveypredprof](https://github.com/matveypredprof)
 - **О себе**: делаю все в последний день
-- 
