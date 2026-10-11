@@ -52,3 +52,9 @@
 - **Роль**:
 - **GitHub**: [matveypredprof](https://github.com/matveypredprof)
 - **О себе**: делаю все в последний день
+
+- ## Ольга Субботина
+- **Группа**: СГН3-12Б
+- **Роль**:
+- **GitHub**: [Olyassub](https://github.com/Olyassub)
+- **О себе**: научите меня нормально пользоваться гитом пж
