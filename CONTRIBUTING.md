@@ -53,7 +53,7 @@
 - **GitHub**: [matveypredprof](https://github.com/matveypredprof)
 - **О себе**: делаю все в последний день
 
-- ## Ольга Субботина
+## Ольга Субботина
 - **Группа**: СГН3-12Б
 - **Роль**:
 - **GitHub**: [Olyassub](https://github.com/Olyassub)
