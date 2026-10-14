@@ -289,3 +289,7 @@ git push <URL_или_псевдоним> <имя_ветки>
 git pull <URL_или_псевдоним> <имя_ветки>
 ```
 
+### Полезные ссылки
+- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Интерактивный курс по Git](https://gitbybit.com/ru)
+- [https://learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru) - интерактивный тренажёр Git
+
