@@ -29,17 +29,35 @@
 - **GitHub**: [k3rnel1x](https://github.com/k3rnel1x)
 - **О себе**: все очень круто, но надо переделать
 
-## Константин Скубак
+## Карпов Никита
 - **Группа**: СГН3-12Б
-- **Роль**: Fullstack / DevOps
-- **GitHub**: [S5aRtaN](https://github.com/S5aRtaN)
-- **О себе**: Разделяй и властвуй!
+- **Роль**: 
+- **GitHub**: [No_Keri](https://github.com/No_Keri)
+- **О себе**: как бы да но нет 
+
+## Роман Лученко
+- **Группа**: СГН3-32Б
+- **Роль**: Frontend, Backend (JS, Java)
+- **GitHub**: [@romanluchenko83-jpg](https://github.com/romanluchenko83-jpg)
+- **О себе**: люблю кофе и юмор, а также днд немного устал уже работать
 
 ## Александр Поляков
 - **Группа**: СГН3-12Б 
 - **Роль**: 
 - **GitHub**: [myrem0rse](https://github.com/myrem0rse)
 - **О себе**: готов создавать
+
+## Константин Скубак
+- **Группа**: СГН3-12Б
+- **Роль**: Fullstack / DevOps
+- **GitHub**: [S5aRtaN](https://github.com/S5aRtaN)
+- **О себе**: Разделяй и властвуй!
+
+## Ольга Субботина
+- **Группа**: СГН3-12Б
+- **Роль**:
+- **GitHub**: [Olyassub](https://github.com/Olyassub)
+- **О себе**: научите меня нормально пользоваться гитом пж
 
 ## Тихонов Никита
 - **Группа**: СГН3-13Б
@@ -52,21 +70,3 @@
 - **Роль**:
 - **GitHub**: [matveypredprof](https://github.com/matveypredprof)
 - **О себе**: делаю все в последний день
-
-## Ольга Субботина
-- **Группа**: СГН3-12Б
-- **Роль**:
-- **GitHub**: [Olyassub](https://github.com/Olyassub)
-- **О себе**: научите меня нормально пользоваться гитом пж
-
-## Роман Лученко
-- **Группа**: СГН3-32Б
-- **Роль**: Frontend, Backend (JS, Java)
-- **GitHub**: [@romanluchenko83-jpg](https://github.com/romanluchenko83-jpg)
-- **О себе**: люблю кофе и юмор, а также днд немного устал уже работать
-
-## Карпов Никита
-- **Группа**: СГН3-12Б
-- **Роль**: 
-- **GitHub**: [No_Keri](https://github.com/No_Keri)
-- **О себе**: как бы да но нет 
