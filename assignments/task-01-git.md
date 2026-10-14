@@ -46,13 +46,13 @@ cd digital-department-handbook
 # 2. Создай ветку
 git checkout -b add-<твоё_имя-фамилия>
 
-# 3. Открой contributors.md и добавь себя в конец файла
+# 3. Открой CONTRIBUTING.md и добавь себя в конец файла
 
 # 4. Проверь, что изменилось
 git status
 
 # 5. Сделай коммит
-git add contributors.md
+git add CONTRIBUTING.md
 git commit -m "Add <Твоё Имя Фамилия> to contributors"
 
 # 6. Запушь ветку
