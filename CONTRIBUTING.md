@@ -70,3 +70,8 @@
 - **Роль**:
 - **GitHub**: [matveypredprof](https://github.com/matveypredprof)
 - **О себе**: делаю все в последний день
+## Джава Даюб
+- **Группа**: СГН3-11Б
+- **Роль**: 
+- **GitHub**: [Jawa-hd](https://github.com/Jawa-hd)
+- **О себе**: Я пытаюсь использовать GitHub уже 7 лет (и до сих пор не использую)
