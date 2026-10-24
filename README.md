@@ -35,7 +35,7 @@
 - <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat&logo=docker&logoColor=white" height="16" /> [DevOps](https://github.com/iu5git/DevOps)
 
 ## Задания
-- [Добавь себя в команду](assignments/task-01-git.md) — твой первый Pull Request.
+
 
 ## Полезные ссылки
 - [https://metanit.com/c](https://metanit.com/c/tutorial) - руководство по языку программирования С
