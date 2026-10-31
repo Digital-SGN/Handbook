@@ -27,10 +27,10 @@
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" height="16" /> [Программирование на языке Си](docs/C/README.md)
 - <img src="https://img.shields.io/badge/Algorithms-4B8BBE?logo=thealgorithms&logoColor=white" height="16" /> [Алгоритмы и структуры данных](docs/Algorithms/README.md)
 - <img src="https://img.shields.io/badge/aiogram-2AABEE?style=flat&logo=telegram&logoColor=white" height="16" /> [Разработка Telegram-ботов](docs/Aiogram/README.md)
-- <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="16" /> [Deep learning](https://github.com/iu5git/Deep-learning)
-- <img src="https://img.shields.io/badge/Web-4B8BBE?style=flat&logo=html5&logoColor=white" height="16" /> [Web-разработка](https://github.com/iu5git/Web)
-- <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E" height="16" /> [JavaScript](https://github.com/iu5git/JavaScript)
-- <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat&logo=docker&logoColor=white" height="16" /> [DevOps](https://github.com/iu5git/DevOps)
+- <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="16" /> [ИУ5 Deep learning](https://github.com/iu5git/Deep-learning)
+- <img src="https://img.shields.io/badge/Web-4B8BBE?style=flat&logo=html5&logoColor=white" height="16" /> [ИУ5 Web-разработка](https://github.com/iu5git/Web)
+- <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E" height="16" /> [ИУ5 JavaScript](https://github.com/iu5git/JavaScript)
+- <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat&logo=docker&logoColor=white" height="16" /> [ИУ5 DevOps](https://github.com/iu5git/DevOps)
 
 
 ## Полезные ссылки
