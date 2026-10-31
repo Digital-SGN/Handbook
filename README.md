@@ -17,7 +17,7 @@
 - [`contributors.md`](contributors.md) — список участников
 - [`assets/`](assets/) — логотипы и изображения
 
-## Материалы
+## Материалы и курсы 
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Введение в Git](docs/Git/01-git.md)
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Соглашение о коммитах](docs/Git/02-conventional-commits.md)
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Интерактивный курс по Git](https://gitbybit.com/ru)
