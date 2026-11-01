@@ -6,8 +6,8 @@
 
 Это единый источник знаний нашего отдела, здесь будут храниться правила работы, стек, обучающие материалы, задания и прочая полезная информация. 
 
-<a href="docs/Rules.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/_Читать_Критерии_сдачи_проектов_(PDF)-0CBFA1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Критерии сдачи проектов" height="40" />
+<a href="docs/rules.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/_Критерии_сдачи_проектов_(PDF)-0CBFA1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Критерии сдачи проектов" height="40" />
 </a>
 
 ## Содержание
