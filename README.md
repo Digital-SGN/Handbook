@@ -16,7 +16,7 @@
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Интерактивный курс по Git](https://gitbybit.com/ru)
 - <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" height="16" /> [Введение в Markdown](docs/Markdown/01-markdown.md)
 - <img src="https://img.shields.io/badge/Mermaid-FF3670?style=flat&logo=mermaid&logoColor=white" height="16" /> [Диаграммы Mermaid](docs/Markdown/02-mermaid.md)
-- <img src="https://img.shields.io/badge/sql-BC3670?style=flat&logo=sql&logoColor=white" height="16" /> [Курсы по SQL](https://sql-academy.org)
+- <img src="https://img.shields.io/badge/SQL-BC3670?style=flat&logo=sql&logoColor=white" height="16" /> [Курсы по SQL](https://sql-academy.org)
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" height="16" /> [Программирование на языке Си](docs/C/README.md)
 - <img src="https://img.shields.io/badge/Algorithms-4B8BBE?logo=thealgorithms&logoColor=white" height="16" /> [Алгоритмы и структуры данных](docs/Algorithms/README.md)
 - <img src="https://img.shields.io/badge/aiogram-2AABEE?style=flat&logo=telegram&logoColor=white" height="16" /> [Разработка Telegram-ботов](docs/Aiogram/README.md)
