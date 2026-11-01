@@ -10,17 +10,6 @@
   <img src="https://img.shields.io/badge/_Критерии_сдачи_проектов-0CBFA1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Критерии сдачи проектов" height="40" />
 </a>
 
-## Содержание
-1. [Структура](#структура)
-2. [Материалы](#материалы)
-3. [Задания](#задания)
-4. [Полезные ссылки](#полезные-ссылки)
-
-## Структура
-- [`docs/`](docs/) — обучающие материалы
-- [`contributors.md`](contributors.md) — список участников
-- [`assets/`](assets/) — логотипы и изображения
-
 ## Материалы и курсы 
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Введение в Git](docs/Git/01-git.md)
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Соглашение о коммитах](docs/Git/02-conventional-commits.md)
