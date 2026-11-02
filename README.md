@@ -6,29 +6,24 @@
 
 Это единый источник знаний нашего отдела, здесь будут храниться правила работы, стек, обучающие материалы, задания и прочая полезная информация. 
 
-## Содержание
-1. [Структура](#структура)
-2. [Материалы](#материалы)
-3. [Задания](#задания)
-4. [Полезные ссылки](#полезные-ссылки)
+<a href="docs/rules.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/_Критерии_сдачи_проектов-0CBFA1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Критерии сдачи проектов" height="40" />
+</a>
 
-## Структура
-- [`docs/`](docs/) — обучающие материалы
-- [`assignments/`](assignments/) — практические задания
-- [`contributors.md`](contributors.md) — список участников
-- [`assets/`](assets/) — логотипы и изображения
-
-## Материалы
+## Материалы и курсы 
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Введение в Git](docs/Git/01-git.md)
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Соглашение о коммитах](docs/Git/02-conventional-commits.md)
-- <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" height="16" /> [Введение в Markdown](docs/MD/01-markdown.md)
-- <img src="https://img.shields.io/badge/Mermaid-FF3670?style=flat&logo=mermaid&logoColor=white" height="16" /> [Диаграммы Mermaid](docs/MD/02-mermaid.md)
-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" height="16" />  [Программирование на языке Си](docs/C/README.md)
-- ![Algorithms](https://img.shields.io/badge/Algorithms-4B8BBE?style=flat&logo=thealgorithms&logoColor=white) [Алгоритмы и структуры данных](docs/Algorithms/README.md)
+- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Интерактивный курс по Git](https://gitbybit.com/ru)
+- <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" height="16" /> [Введение в Markdown](docs/Markdown/01-markdown.md)
+- <img src="https://img.shields.io/badge/Mermaid-FF3670?style=flat&logo=mermaid&logoColor=white" height="16" /> [Диаграммы Mermaid](docs/Markdown/02-mermaid.md)
+- <img src="https://img.shields.io/badge/SQL-BC3670?style=flat&logo=sql&logoColor=white" height="16" /> [Интерактивный курс по SQL](https://sql-academy.org)
+- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" height="16" /> [Программирование на языке Си](docs/C/README.md)
+- <img src="https://img.shields.io/badge/Algorithms-4B8BBE?logo=thealgorithms&logoColor=white" height="16" /> [Алгоритмы и структуры данных](docs/Algorithms/README.md)
 - <img src="https://img.shields.io/badge/aiogram-2AABEE?style=flat&logo=telegram&logoColor=white" height="16" /> [Разработка Telegram-ботов](docs/Aiogram/README.md)
-
-## Задания
-- [Добавь себя в команду](assignments/task-01-git.md) — твой первый Pull Request.
+- <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="16" /> [ИУ5 Deep learning](https://github.com/iu5git/Deep-learning)
+- <img src="https://img.shields.io/badge/Web-4B8BBE?style=flat&logo=html5&logoColor=white" height="16" /> [ИУ5 Web-разработка](https://github.com/iu5git/Web)
+- <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E" height="16" /> [ИУ5 JavaScript](https://github.com/iu5git/JavaScript)
+- <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat&logo=docker&logoColor=white" height="16" /> [ИУ5 DevOps](https://github.com/iu5git/DevOps)
 
 ## Полезные ссылки
 - [https://metanit.com/c](https://metanit.com/c/tutorial) - руководство по языку программирования С

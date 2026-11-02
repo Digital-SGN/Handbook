@@ -227,7 +227,7 @@ logs/
 
 ### Рабочий цикл (запомни!)
 
-1. `git pull` — подтяни свежие изменения из `main`.
+1. `git pull origin main` — подтяни свежие изменения из `main`.
 2. `git checkout -b my-branch` — создай ветку для своей задачи.
 3. Правь файлы.
 4. `git add .` потом создание коммитов `git commit -m "Что сделал"` и после этого  отправка изменений `git push origin my-branch`.
@@ -288,4 +288,8 @@ git push <URL_или_псевдоним> <имя_ветки>
 # Получить последние изменения
 git pull <URL_или_псевдоним> <имя_ветки>
 ```
+
+### Полезные ссылки
+- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Интерактивный курс по Git](https://gitbybit.com/ru)
+- [https://learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru) - интерактивный тренажёр Git
 
