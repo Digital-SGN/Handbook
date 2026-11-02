@@ -15,11 +15,6 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/files/0CBFA1" width="24" /> Структура репозитория
-- `docs/` — обучающие материалы по технологиям
-- `assets/` — изображения, баннеры и гифки для оформления
-- [`CONTRIBUTING.md`](CONTRIBUTING.md) — как вносить свой вклад в развитие отдела
-
 ## <img src="https://cdn.simpleicons.org/gitbook/0CBFA1" width="24" /> Материалы и курсы 
 
 **Git и документация**
