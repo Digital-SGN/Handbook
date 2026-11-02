@@ -49,14 +49,13 @@
 
 ## <img src="https://cdn.simpleicons.org/linktree/0CBFA1" width="24" /> Полезные ссылки
 - <img src="https://cdn.simpleicons.org/c/0CBFA1" width="16" /> **[Metanit (C)](https://metanit.com/c/tutorial)** — руководство по языку программирования Си.
-- <img src="https://cdn.simpleicons.org/visualstudiocode/0CBFA1" width="16" /> **[IT-Black](https://www.it-black.ru/programming/tpost/99sncmn6a1-strukturnoe-i-modulnoe-programmirovanie)** — структурное и модульное программирование.
+- <img src="https://cdn.simpleicons.org/codefactor/0CBFA1" width="16" /> **[IT-Black](https://www.it-black.ru/programming/tpost/99sncmn6a1-strukturnoe-i-modulnoe-programmirovanie)** — структурное и модульное программирование.
 - <img src="https://cdn.simpleicons.org/graphql/0CBFA1" width="16" /> **[VisuAlgo](https://visualgo.net/)** — визуализация структур данных и алгоритмов.
 - <img src="https://cdn.simpleicons.org/refactoring/0CBFA1" width="16" /> **[Refactoring Guru](https://refactoring.guru/ru/design-patterns)** — паттерны/шаблоны проектирования (заходите с ВПН).
 - <img src="https://cdn.simpleicons.org/git/0CBFA1" width="16" /> **[Learn Git Branching](https://learngitbranching.js.org/?locale=ru)** — интерактивный тренажёр Git.
 - <img src="https://cdn.simpleicons.org/roadmapdotsh/0CBFA1" width="16" /> **[Roadmap.sh](https://roadmap.sh/)** — карты развития для разработчиков.
 - <img src="https://cdn.simpleicons.org/git/0CBFA1" width="16" /> **[Dangitgit](https://dangitgit.com/ru)** — что делать, если сломал Git.
 - <img src="https://cdn.simpleicons.org/gitignoredotio/0CBFA1" width="16" /> **[Gitignore.io](https://www.toptal.com/developers/gitignore)** — генератор `.gitignore`.
-
 <br>
 
 <p align="center">
