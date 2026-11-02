@@ -13,8 +13,6 @@
   </a>
 </div>
 
----
-
 ## <img src="https://cdn.simpleicons.org/gitbook/0CBFA1" width="24" /> Материалы и курсы 
 
 **Git и документация**
