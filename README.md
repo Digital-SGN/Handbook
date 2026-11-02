@@ -25,7 +25,6 @@
 - <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E" height="16" /> [ИУ5 JavaScript](https://github.com/iu5git/JavaScript)
 - <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat&logo=docker&logoColor=white" height="16" /> [ИУ5 DevOps](https://github.com/iu5git/DevOps)
 
-
 ## Полезные ссылки
 - [https://metanit.com/c](https://metanit.com/c/tutorial) - руководство по языку программирования С
 - [https://www.it-black.ru/programming](https://www.it-black.ru/programming/tpost/99sncmn6a1-strukturnoe-i-modulnoe-programmirovanie) - структурное и модульное программирование
