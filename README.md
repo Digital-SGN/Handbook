@@ -1,6 +1,5 @@
 <img src="assets/cat_banner.jpg" width="100%" alt="Крутые коты" />
 
-<img width="1024" height="1024" alt="replace-the-calendar-with-clock-icon-in-the-center" src="https://github.com/user-attachments/assets/b8e8a1bf-82f1-42ad-924c-8a62c703e7ec" />
 <p align="center">
   <img width="140" alt="replace-the-calendar-with-clock-icon-in-the-center" src="https://github.com/user-attachments/assets/b8e8a1bf-82f1-42ad-924c-8a62c703e7ec" alt="Лого" />
 </p>
