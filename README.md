@@ -1,7 +1,7 @@
 <img src="assets/cat_banner.jpg" width="100%" alt="Крутые коты" />
 
 <p align="center">
-  <img width="140" src="https://github.com/Digital-SGN/Handbook/blob/main/assets/logo_handbook.png" alt="Лого" />
+  <img width="160" src="https://github.com/Digital-SGN/Handbook/blob/main/assets/logo_handbook.png" alt="Лого" />
 </p>
 
 <h1 align="center">Справочник отдела цифрового развития ССФ СГН</h1>
