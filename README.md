@@ -19,6 +19,10 @@
 
 ## <img src="https://cdn.simpleicons.org/gitbook/0CBFA1" width="24" /> Материалы и курсы 
 
+**Стандарты и архитектура**
+- <img src="https://cdn.simpleicons.org/codefactor/0CBFA1" width="16" /> [Принципы разработки (KISS, DRY, SOLID)](docs/Principles/README.md)
+- <img src="https://cdn.simpleicons.org/readthedocs/0CBFA1" width="16" /> [Критерии сдачи проектов (PDF)](docs/rules.pdf)
+
 **Git и документация**
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Введение в Git](docs/Git/01-git.md)
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Соглашение о коммитах](docs/Git/02-conventional-commits.md)
