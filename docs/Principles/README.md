@@ -7,7 +7,7 @@
 ## Содержание
 - <img src="https://cdn.simpleicons.org/git/0CBFA1" width="20" /> [YAGNI](#yagni)
 - <img src="https://cdn.simpleicons.org/databricks/0CBFA1" width="20" /> [DRY](#dry)
-- <img src="https://cdn.simpleicons.org/leaf/0CBFA1" width="20" /> [KISS](#kiss)
+- <img src="https://cdn.simpleicons.org/circle/0CBFA1" width="20" /> [KISS](#kiss)
 - <img src="https://cdn.simpleicons.org/diagramsdotnet/0CBFA1" width="20" /> [BDUF](#bduf)
 - <img src="https://cdn.simpleicons.org/solid/0CBFA1" width="20" /> [SOLID](#solid)
 - <img src="https://cdn.simpleicons.org/speedtest/0CBFA1" width="20" /> [APO](#apo)
