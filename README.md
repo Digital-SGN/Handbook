@@ -25,7 +25,7 @@
 - <img src="https://cdn.simpleicons.org/mermaid/0CBFA1" width="16" /> [Диаграммы Mermaid](docs/Markdown/02-mermaid.md)
 
 **Backend и Базы данных**
-- <img src="https://cdn.simpleicons.org/sql/0CBFA1" width="16" /> [Интерактивный курс по SQL](https://sql-academy.org)
+- <img src="https://cdn.simpleicons.org/postgresql/0CBFA1" width="16" /> [Интерактивный курс по SQL](https://sql-academy.org)
 - <img src="https://cdn.simpleicons.org/c/0CBFA1" width="16" /> [Программирование на языке Си](docs/C/README.md)
 - <img src="https://cdn.simpleicons.org/thealgorithms/0CBFA1" width="16" /> [Алгоритмы и структуры данных](docs/Algorithms/README.md)
 - <img src="https://cdn.simpleicons.org/telegram/0CBFA1" width="16" /> [Разработка Telegram-ботов](docs/Aiogram/README.md)
