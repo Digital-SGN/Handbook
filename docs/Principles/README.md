@@ -51,7 +51,7 @@ total = price + calculate_vat(price)
 
 ---
 
-## <img src="https://cdn.simpleicons.org/leaf/0CBFA1" width="28" /> KISS (Keep It Simple, Stupid)
+## <img src="https://cdn.simpleicons.org/circle/0CBFA1" width="28" /> KISS (Keep It Simple, Stupid)
 
 **«Будь проще»**
 
