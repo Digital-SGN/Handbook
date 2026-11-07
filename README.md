@@ -18,23 +18,23 @@
 - <img src="https://cdn.simpleicons.org/readthedocs/0CBFA1" width="16" /> [Критерии сдачи проектов (PDF)](docs/rules.pdf)
 
 **Git и документация**
-- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Введение в Git](docs/Git/01-git.md)
-- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Соглашение о коммитах](docs/Git/02-conventional-commits.md)
-- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Интерактивный курс по Git](https://gitbybit.com/ru)
-- <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" height="16" /> [Введение в Markdown](docs/Markdown/01-markdown.md)
-- <img src="https://img.shields.io/badge/Mermaid-FF3670?style=flat&logo=mermaid&logoColor=white" height="16" /> [Диаграммы Mermaid](docs/Markdown/02-mermaid.md)
+- <img src="https://cdn.simpleicons.org/git/0CBFA1" width="16" /> [Введение в Git](docs/Git/01-git.md)
+- <img src="https://cdn.simpleicons.org/git/0CBFA1" width="16" /> [Соглашение о коммитах](docs/Git/02-conventional-commits.md)
+- <img src="https://cdn.simpleicons.org/git/0CBFA1" width="16" /> [Интерактивный курс по Git](https://gitbybit.com/ru)
+- <img src="https://cdn.simpleicons.org/markdown/0CBFA1" width="16" /> [Введение в Markdown](docs/Markdown/01-markdown.md)
+- <img src="https://cdn.simpleicons.org/mermaid/0CBFA1" width="16" /> [Диаграммы Mermaid](docs/Markdown/02-mermaid.md)
 
 **Backend и Базы данных**
-- <img src="https://img.shields.io/badge/SQL-BC3670?style=flat&logo=sql&logoColor=white" height="16" /> [Интерактивный курс по SQL](https://sql-academy.org)
-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" height="16" /> [Программирование на языке Си](docs/C/README.md)
-- <img src="https://img.shields.io/badge/Algorithms-4B8BBE?logo=thealgorithms&logoColor=white" height="16" /> [Алгоритмы и структуры данных](docs/Algorithms/README.md)
-- <img src="https://img.shields.io/badge/aiogram-2AABEE?style=flat&logo=telegram&logoColor=white" height="16" /> [Разработка Telegram-ботов](docs/Aiogram/README.md)
+- <img src="https://cdn.simpleicons.org/mysql/0CBFA1" width="16" /> [Интерактивный курс по SQL](https://sql-academy.org)
+- <img src="https://cdn.simpleicons.org/c/0CBFA1" width="16" /> [Программирование на языке Си](docs/C/README.md)
+- <img src="https://cdn.simpleicons.org/thealgorithms/0CBFA1" width="16" /> [Алгоритмы и структуры данных](docs/Algorithms/README.md)
+- <img src="https://cdn.simpleicons.org/telegram/0CBFA1" width="16" /> [Разработка Telegram-ботов](docs/Aiogram/README.md)
 
 **Курсы ИУ5**
-- <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="16" /> [Deep learning](https://github.com/iu5git/Deep-learning)
-- <img src="https://img.shields.io/badge/Web-4B8BBE?style=flat&logo=html5&logoColor=white" height="16" /> [Web-разработка](https://github.com/iu5git/Web)
-- <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E" height="16" /> [JavaScript](https://github.com/iu5git/JavaScript)
-- <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat&logo=docker&logoColor=white" height="16" /> [DevOps](https://github.com/iu5git/DevOps)
+- <img src="https://cdn.simpleicons.org/tensorflow/0CBFA1" width="16" /> [Deep learning](https://github.com/iu5git/Deep-learning)
+- <img src="https://cdn.simpleicons.org/html5/0CBFA1" width="16" /> [Web-разработка](https://github.com/iu5git/Web)
+- <img src="https://cdn.simpleicons.org/javascript/0CBFA1" width="16" /> [JavaScript](https://github.com/iu5git/JavaScript)
+- <img src="https://cdn.simpleicons.org/docker/0CBFA1" width="16" /> [DevOps](https://github.com/iu5git/DevOps)
 
 ## <img src="https://cdn.simpleicons.org/linktree/0CBFA1" width="24" /> Полезные ссылки
 - <img src="https://cdn.simpleicons.org/c/0CBFA1" width="16" /> **[Metanit (C)](https://metanit.com/c/tutorial)** — руководство по языку программирования Си.
