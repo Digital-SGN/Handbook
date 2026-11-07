@@ -15,7 +15,7 @@
 
 **Стандарты и архитектура**
 - <img src="https://cdn.simpleicons.org/codefactor/0CBFA1" width="16" /> [Принципы разработки (KISS, DRY, SOLID)](docs/Principles/README.md)
-- <img src="https://cdn.simpleicons.org/readthedocs/0CBFA1" width="16" /> [Критерии сдачи проектов (PDF)](docs/rules.pdf)
+- <img src="https://cdn.simpleicons.org/readthedocs/0CBFA1" width="16" /> [Критерии сдачи проектов](docs/rules.pdf)
 
 **Git и документация**
 - <img src="https://cdn.simpleicons.org/git/0CBFA1" width="16" /> [Введение в Git](docs/Git/01-git.md)
