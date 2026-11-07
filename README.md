@@ -11,12 +11,6 @@
   Здесь хранятся правила работы, стек, обучающие материалы и задания.
 </p>
 
-<div align="center">
-  <a href="docs/rules.pdf" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Критерии%20сдачи%20проектов-0CBFA1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Критерии сдачи проектов" />
-  </a>
-</div>
-
 ## <img src="https://cdn.simpleicons.org/gitbook/0CBFA1" width="24" /> Материалы и курсы 
 
 **Стандарты и архитектура**
