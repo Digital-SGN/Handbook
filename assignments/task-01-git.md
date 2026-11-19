@@ -20,7 +20,7 @@
 ## Инструкция
 ```bash
 # 1. Клонируй репозиторий
-git clone https://github.com/Digital-SGN/digital-department-handbook.git
+git clone https://github.com/Digital-SGN/Handbook
 cd digital-department-handbook
 
 # 2. Создай ветку
@@ -46,7 +46,7 @@ git push origin add-<твоё_имя-фамилия>
 
 ---
 
-## Шаблон для `contributors.md`
+## Шаблон для `CONTRIBUTING.md`
 ```markdown
 ## Иван Иванов
 - **Группа**: СГН3-ХХБ
