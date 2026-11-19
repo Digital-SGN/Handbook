@@ -1,6 +1,15 @@
 # Алгоритмы и структуры данных
 
-<img width="720" height="320" alt="image" src="https://github.com/user-attachments/assets/151026e2-aa51-4e07-8214-131cb2621959" />
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0CBFA1', 'primaryTextColor': '#fff', 'primaryBorderColor': '#099e85', 'lineColor': '#0CBFA1', 'secondaryColor': '#e6f9f5', 'tertiaryColor': '#fff'}}}%%
+flowchart LR
+    A[Асимптотика<br>O-нотация] --> B[Линейные<br>структуры]
+    B --> C[Поиск и<br>Сортировки]
+    C --> D[Хеш-таблицы]
+    D --> E[Деревья и<br>Кучи]
+    E --> F[Графы]
+    F --> G[Алгоритмические<br>парадигмы]
+```
 
 Добро пожаловать в раздел, посвящённый алгоритмам и структурам данных.
 
