@@ -1,6 +1,6 @@
 # Алгоритмы и структуры данных
 
-<img width="100%" height="422" alt="image" src="https://github.com/user-attachments/assets/151026e2-aa51-4e07-8214-131cb2621959" />
+<img width="800%" height="400" alt="image" src="https://github.com/user-attachments/assets/151026e2-aa51-4e07-8214-131cb2621959" />
 
 Добро пожаловать в раздел, посвящённый алгоритмам и структурам данных.
 
