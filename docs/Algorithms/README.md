@@ -1,15 +1,10 @@
 # Алгоритмы и структуры данных
 
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0CBFA1', 'primaryTextColor': '#fff', 'primaryBorderColor': '#099e85', 'lineColor': '#0CBFA1', 'secondaryColor': '#e6f9f5', 'tertiaryColor': '#fff'}}}%%
-flowchart LR
-    A[Асимптотика<br>O-нотация] --> B[Линейные<br>структуры]
-    B --> C[Поиск и<br>Сортировки]
-    C --> D[Хеш-таблицы]
-    D --> E[Деревья и<br>Кучи]
-    E --> F[Графы]
-    F --> G[Алгоритмические<br>парадигмы]
-```
+<p align="center">
+  <img src="https://simpleicons.org" width="90" alt="Алгоритмы и структуры данных" />
+</p>
+
+<h1 align="center">Алгоритмы и структуры данных</h1>
 
 Добро пожаловать в раздел, посвящённый алгоритмам и структурам данных.
 
