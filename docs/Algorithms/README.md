@@ -1,10 +1,6 @@
 # Алгоритмы и структуры данных
 
-<p align="center">
-  <img src="https://simpleicons.org" width="90" alt="Алгоритмы и структуры данных" />
-</p>
-
-<h1 align="center">Алгоритмы и структуры данных</h1>
+<img width="720" height="320" alt="image" src="https://github.com/user-attachments/assets/151026e2-aa51-4e07-8214-131cb2621959" />
 
 Добро пожаловать в раздел, посвящённый алгоритмам и структурам данных.
 
