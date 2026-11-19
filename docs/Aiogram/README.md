@@ -1,6 +1,5 @@
 <div align="center">
-  <img width="900" height="440" alt="image" src="https://github.com/user-attachments/assets/d513a8a9-fdee-498e-8aba-d7ec0e61c1bb" />
-
+  <img width="1200" height="720" alt="wide-course-banner-with-the-bold-title-text--разра" src="https://github.com/user-attachments/assets/94681cb9-9e98-4566-9ede-c6bb1b6946eb" />
 </div>
 
 # Руководство по Telegram-ботам на aiogram
