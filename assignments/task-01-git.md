@@ -24,7 +24,7 @@ git clone https://github.com/Digital-SGN/Handbook
 cd digital-department-handbook
 
 # 2. Создай ветку
-git checkout -b add-<твоё_имя-фамилия>
+git switch -c add-<твоё_имя-фамилия>
 
 # 3. Открой CONTRIBUTING.md и добавь себя в конец файла
 
