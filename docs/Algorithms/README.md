@@ -1,6 +1,8 @@
 # Алгоритмы и структуры данных
 
-<img width="1200" height="600" alt="wide-course-banner-with-the-bold-title-text--алгор" src="https://github.com/user-attachments/assets/a7acfa8c-a8c9-4d9d-88e7-4c9cd39723db" />
+<div align="center">
+  <img width="900" height="500" alt="wide-course-banner-with-the-bold-title-text--алгор" src="https://github.com/user-attachments/assets/a7acfa8c-a8c9-4d9d-88e7-4c9cd39723db" />
+</div>
 
 
 Добро пожаловать в раздел, посвящённый алгоритмам и структурам данных.
