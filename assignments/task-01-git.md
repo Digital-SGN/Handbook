@@ -6,7 +6,7 @@
 
 1. Клонировать репозиторий.
 2. Создать ветку `add-<твоё_имя_фамилия>`.
-3. Добавить себя в `CONTRIBUTING.md` по шаблону.
+3. Добавить себя в `CONTRIBUTORS.md` по шаблону.
 4. Сделать коммит и запушить ветку.
 5. Открыть Pull Request в `main`.
 
@@ -26,13 +26,13 @@ cd digital-department-handbook
 # 2. Создай ветку
 git switch -c add-<твоё_имя-фамилия>
 
-# 3. Открой CONTRIBUTING.md и добавь себя в конец файла
+# 3. Открой CONTRIBUTORS.md и добавь себя в конец файла
 
 # 4. Проверь, что изменилось
 git status
 
 # 5. Сделай коммит
-git add CONTRIBUTING.md
+git add CONTRIBUTORS.md
 git commit -m "Add <Твоё Имя Фамилия> to contributors"
 
 # 6. Запушь ветку
@@ -46,7 +46,7 @@ git push origin add-<твоё_имя-фамилия>
 
 ---
 
-## Шаблон для `CONTRIBUTING.md`
+## Шаблон для `CONTRIBUTORS.md`
 ```markdown
 ## Иван Иванов
 - **Группа**: СГН3-ХХБ
@@ -59,7 +59,7 @@ git push origin add-<твоё_имя-фамилия>
 
 ## Критерии приёмки
 - [ ] Ветка создана от `main`
-- [ ] В `contributors.md` есть твоя запись
+- [ ] В `CONTRIBUTORS.md` есть твоя запись
 - [ ] Коммит с осмысленным сообщением
 - [ ] PR открыт и запрошено ревью
 
