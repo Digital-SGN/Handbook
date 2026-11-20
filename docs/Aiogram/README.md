@@ -1,63 +1,65 @@
 <div align="center">
-  <img width="900" height="500" alt="wide-course-banner-with-the-bold-title-text--разра" src="https://github.com/user-attachments/assets/94681cb9-9e98-4566-9ede-c6bb1b6946eb" />
+  <img width="100%" alt="Руководство по Telegram-ботам на aiogram" src="https://github.com/user-attachments/assets/94681cb9-9e98-4566-9ede-c6bb1b6946eb" />
 </div>
 
-# Руководство по Telegram-ботам на aiogram
+<h1 align="center">Руководство по Telegram-ботам на aiogram</h1>
 
-Полный курс по созданию Telegram-ботов на Python с использованием aiogram: от первого бота до продакшена.
+<p align="center">
+  Полный курс по созданию Telegram-ботов на Python с использованием aiogram: от первого бота до продакшена.
+</p>
 
-## Содержание
+## <img src="https://cdn.simpleicons.org/bookstack/0CBFA1" width="24" /> Содержание
 
 ### Введение
 
-0. [Быстрый старт: первый бот за 10 минут](00-quickstart.md)
+0. [Быстрый старт: первый бот за 10 минут](00-quickstart.md)  
    — Установка aiogram, токен у BotFather, `.env`, минимальный эхо-бот, типичные ошибки при запуске.
    
 ### Основы
 
-1. [Что такое Telegram-бот и как он работает](01-what-is-a-bot.md)
+1. [Что такое Telegram-бот и как он работает](01-what-is-a-bot.md)  
    — Bot API, Update, Polling vs Webhook, BotFather и токен.
-2. [Асинхронность и asyncio](02-asyncio-basics.md)
+2. [Асинхронность и asyncio](02-asyncio-basics.md)  
    — Event loop, `async`/`await`, что блокирует loop, `asyncio.gather`.
-3. [Архитектура aiogram: Bot, Dispatcher, Router](03-architecture.md)
+3. [Архитектура aiogram: Bot, Dispatcher, Router](03-architecture.md)  
    — Три ключевых объекта, иерархия роутеров, точка входа.
 
 ### Логика бота
 
-4. [Хендлеры и фильтры](04-handlers-and-filters.md)
+4. [Хендлеры и фильтры](04-handlers-and-filters.md)  
    — Виды событий, встроенные и кастомные фильтры, порядок проверки.
-5. [Магические фильтры F](05-magic-filters.md)
+5. [Магические фильтры F](05-magic-filters.md)  
    — Условия в декораторе, комбинации, частые ошибки.
-6. [Клавиатуры](06-keyboards.md)
+6. [Клавиатуры](06-keyboards.md)  
    — Reply vs Inline, `callback_data`, валидация.
-7. [Машина состояний FSM](07-fsm.md)
+7. [Машина состояний FSM](07-fsm.md)  
    — Пошаговые диалоги, `StatesGroup`, Redis как хранилище.
-8. [Мидлвари](08-middlewares.md)
+8. [Мидлвари](08-middlewares.md)  
    — Outer vs inner, антифлуд, инъекция зависимостей, проверка подписки.
 
 ### Данные и автоматизация
 
-9. [Работа с базой данных](09-database.md)
+9. [Работа с базой данных](09-database.md)  
    — PostgreSQL, asyncpg, пул соединений, SQLAlchemy, миграции.
-10. [Планировщик задач](10-scheduler.md)
+10. [Планировщик задач](10-scheduler.md)  
     — APScheduler, триггеры, идемпотентность, мониторинг.
-11. [Деплой](11-deploy.md)
+11. [Деплой](11-deploy.md)  
     — Amvera, Vercel, VPS, Docker, systemd, секреты.
 
 ### Дополнительно
 
-12. [Форматирование текста и отправка медиа](12-formatting-and-media.md)
+12. [Форматирование текста и отправка медиа](12-formatting-and-media.md)  
     — HTML-разметка, `FSInputFile`, альбомы, скачивание файлов.
-13. [Тестирование ботов](13-testing.md)
+13. [Тестирование ботов](13-testing.md)  
     — Unit-тесты, `feed_raw_update`, моки, CI/CD.
-14. [Безопасность](14-security.md)
+14. [Безопасность](14-security.md)  
     — Токен, SQL-инъекции, `callback_data`, secret_token, чек-лист.
-15. [Продвинутые темы](15-advanced-topics.md)
+15. [Продвинутые темы](15-advanced-topics.md)  
     — Inline-режим, Mini Apps, платежи, локализация, микросервисы.
-16. [Собираем своего бота](16-building-bot.md)
+16. [Собираем своего бота](16-building-bot.md)  
     — Практическая глава, где мы создадим своего бота для регистраций, используя все прошлые знания.
 
-## Полезные ссылки
+## <img src="https://cdn.simpleicons.org/linktree/0CBFA1" width="24" /> Полезные ссылки
 
 - [Документация aiogram](https://docs.aiogram.dev/)
 - [Примеры aiogram на GitHub](https://github.com/aiogram/aiogram/tree/dev-3.x/examples)
